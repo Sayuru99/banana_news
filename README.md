@@ -1,2 +1,4 @@
 # banana_news
- News app with Google API
+ News app with Google API  
+ 
+ # Flutter
